@@ -1,6 +1,6 @@
 # Personal Journal Vector Search
 
-A semantic search engine for personal journal entries, built from scratch as a free-coding project for CS 111. The notebook walks through building a vector store — starting with a naive letter-frequency embedder and progressing to a real sentence embedding model — then uses it to search through Apple Journal exports.
+My dad has 20 years of journaling every day stored on his computer. I was inspired by him to build a semantic search engine that could search through my own apple journal entries. Soon, I'd like to use it to be able to help my dad search through his own entries and especially, to allow an LLM to remember his experiences and analyze patterns in his thinking. The notebook walks through learning to understand and build a vector store — starting with a naive letter-frequency embedder and progressing to a real sentence embedding model — then uses it to search through my Apple Journal exports.
 
 ## What it does
 
