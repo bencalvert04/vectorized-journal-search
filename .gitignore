@@ -1,0 +1,22 @@
+# Personal journal data — keep off GitHub
+text_entries/
+AppleJournalEntries/
+texts.json
+vectors.npy
+
+# macOS
+.DS_Store
+
+# Claude Code settings
+.claude/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+venv/
